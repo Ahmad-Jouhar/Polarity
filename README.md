@@ -8,6 +8,7 @@ To run all the files, you need to have numpy installed for all of them, and pyga
 You can install the libraries by running the following commands in a terminal:
 
 pip install pygame
+
 pip install numpy
 
 ## polarity - algorithm.py
